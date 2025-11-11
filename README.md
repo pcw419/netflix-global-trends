@@ -3,7 +3,7 @@
 **Analyzing the Internationally Changing Trend of Netflix in the OTT Market**  
 *CDS 301 – Introduction to Data Science, George Mason University*
 
-**Authors:** Chaewon Park (with one other team member) 
+**Authors:** Chaewon Park (with one other team member)  
 **Semester:** Fall 2022  
 
 ---
@@ -45,6 +45,7 @@ The visualizations were primarily built using a Kaggle dataset on OTT video stre
 
 ## Repository Structure
 
+```
 netflix-global-trends/
 │
 ├── README.md
@@ -54,7 +55,7 @@ netflix-global-trends/
 │ └── CDS301_Report.pdf
 └── assets/
 └── thumbnails/ <!-- # (optional: figures or visualizations can be added here) -->
-
+```
 
 ---
 
