@@ -54,7 +54,7 @@ netflix-global-trends/
 ├── report/
 │ └── CDS301_Report.pdf
 └── assets/
-└── thumbnails/ <!-- # (optional: figures or visualizations can be added here) -->
+└── thumbnails/
 ```
 
 ---
