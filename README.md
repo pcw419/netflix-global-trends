@@ -51,10 +51,9 @@ netflix-global-trends/
 ├── README.md
 ├── presentation/
 │ └── CDS301_Presentation.pdf
-├── report/
-│ └── CDS301_Report.pdf
-└── assets/
-└── thumbnails/
+└── report/
+  └── CDS301_Report.pdf
+
 ```
 
 ---
