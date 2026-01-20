@@ -6,6 +6,7 @@
 **Authors:** Chaewon Park (with one other team member)  
 **Semester:** Fall 2022  
 
+This repository contains a team project completed in Fall 2022 for CDS 301.
 ---
 
 ## Overview
